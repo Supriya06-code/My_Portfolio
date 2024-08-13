@@ -7,7 +7,7 @@ const About = () => {
       <h2 className={styles.title}> About</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("about/aboutImage.png")}
+          src={getImageUrl("about/todoworkgirl.png")}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />
@@ -31,8 +31,7 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>UI designer</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+              I have designed clean, intuitive, and visually appealing user interfaces, focusing on usability and consistency.
               </p>
             </div>
           </li>
@@ -41,8 +40,7 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end system
-                and APIs
+              I develop and test APIs, focusing on high performance backend systems.
               </p>
             </div>
           </li>

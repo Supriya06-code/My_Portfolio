@@ -1,0 +1,28 @@
+[{
+  "role": "Software Engineer",
+  "organisation": "Aadi Technology",
+  "startDate": "Jan, 2024",
+  "endDate": "July, 2024",
+  "experiences": ["Worked on RITeSchool Management System,including subject exam marks and exam results features.", "Streamlined dashboard reduced data management time by 15%"],
+  "imageSrc": "history/Aadi Technology logo.png"
+},
+    {
+      "role": "Software Engineer",
+      "organisation": "Aadi Technology",
+      "startDate": "Sep, 2023",
+      "endDate": "Dec, 2023",
+      "experiences": [
+        "Designed and improved PreSchool Enquiry and Admission Form, enhancing user accessibility",
+        "Optimized student listing for efficient record management"
+      ],
+      "imageSrc": "history/Aadi Technology logo.png"
+    },
+    {
+      "role": "Internship",
+      "organisation": "Aadi Technology",
+      "startDate": "Mar, 2023",
+      "endDate": "Sep, 2023",
+      "experiences": ["Worked on Vehicle Tracking System", "improving tracking accuracy by 25%"],
+      "imageSrc": "history/Aadi Technology logo.png"
+    }
+  ]

@@ -1,0 +1,36 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skill/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skill/css.png"
+  },
+  {
+    "title": "ReactJS",
+    "imageSrc": "skill/react.png"
+  },
+  {
+    "title": "NodeJS",
+    "imageSrc": "skill/node.png"
+  },
+ 
+  {
+    "title": "Asp.Net MVC",
+    "imageSrc": "skill/MVC.png"
+  },
+  {
+    "title": "Web API",
+    "imageSrc": "skill/WebAPI.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skill/Postman.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skill/C++.png"
+  }
+ 
+]
