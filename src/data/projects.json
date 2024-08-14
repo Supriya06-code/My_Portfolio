@@ -1,25 +1,25 @@
 
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
+      "title": "KPay",
+      "imageSrc": "projects/project1.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "source": "https://www.github.com"
+      "skills": ["MVC", "Web API"],
+      "source": "https://github.com/aadiTechnology/Solar_Dec22"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
+      "title": "PreSchool",
+      "imageSrc": "projects/project1.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "source": "https://www.github.com"
+      "skills": ["ReactJs", "NodeJS"],
+      "source": "https://github.com/aadiTechnology/Preschool"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
+      "title": "RITeSchool",
+      "imageSrc": "projects/project1.png",
       "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "source": "https://www.github.com"
+      "skills": ["ReactJs", "NodeJs"],
+      "source": "https://github.com/aadiTechnology/NewRIT_SchoolMobile_UI"
     }
   ]
   
