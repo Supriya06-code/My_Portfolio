@@ -1,25 +1,23 @@
-
-[ {
-  "title": "RITeSchool",
-  "imageSrc": "projects/project1.png",
-  "description": "This is a project made to learn the latest languages by building an app.",
-  "skills": ["ReactJs", "NodeJs"],
-  "source": "https://github.com/aadiTechnology/NewRIT_SchoolMobile_UI"
-},
-{
-  "title": "PreSchool",
-  "imageSrc": "projects/project1.png",
-  "description": "This is a project made to learn the latest languages by building an app.",
-  "skills": ["ReactJs", "NodeJS"],
-  "source": "https://github.com/aadiTechnology/Preschool"
-},
-    {
-      "title": "KPay",
-      "imageSrc": "projects/project1.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["MVC", "Web API"],
-      "source": "https://github.com/aadiTechnology/Solar_Dec22"
-    }
-   
-  ]
-  
+[
+  {
+    "title": "RITeSchool",
+    "imageSrc": "projects/project1.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["ReactJs", "NodeJs"],
+    "source": "https://github.com/aadiTechnology/NewRIT_SchoolMobile_UI"
+  },
+  {
+    "title": "PreSchool",
+    "imageSrc": "projects/project1.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["ReactJs", "NodeJS"],
+    "source": "https://github.com/aadiTechnology/Preschool"
+  },
+  {
+    "title": "KPay",
+    "imageSrc": "projects/project1.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["MVC", "Web API"],
+    "source": "https://github.com/aadiTechnology/Solar_Dec22"
+  }
+]
