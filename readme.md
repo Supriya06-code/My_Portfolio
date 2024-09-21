@@ -26,4 +26,4 @@ Welcome to my portfolio website repository! This portfolio showcases my skills, 
 
 To build the project for production: `npm run build`
 
-To preview: `npm run preview`
+To preview: `npm run preview`.
