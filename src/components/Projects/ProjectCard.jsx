@@ -14,8 +14,10 @@ const ProjectCard = ({
             );
            })}</ul>
            <div className={styles.links}>
-            {/* <a href={demo} className={styles.link}>Demo</a> */}
-            <a href={source} className={styles.link}>Source</a>
+            {/* <a href={demo} className={styles.link}>Demo</a>
+            <a href={source} className={styles.link}>Source Code</a> */}
+            
+           
             </div>
             </div>
   )
